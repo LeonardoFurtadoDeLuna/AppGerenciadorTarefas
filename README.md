@@ -1,4 +1,4 @@
-# Projeto AppGerenciadorTarefas (Em andamento...)
+# Projeto AppGerenciadorTarefas
 
 <h1 align="center">
     <img src="https://arbache.com/blog/wp-content/uploads/2020/06/gestao-do-tempo.png" width="600" height="350">
